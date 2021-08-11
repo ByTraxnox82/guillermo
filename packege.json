@@ -1,0 +1,23 @@
+{
+
+  "name": "BotTraxnox",
+
+  "version": "0.0.0",
+
+  "description": "Suscribete Ami Canal Buscame En yt Como By Traxnox Y Suscribete",
+
+  "main": "sm330.js",
+
+  "scripts": {
+
+  "start": "node sm330.js"
+
+  },
+
+  "dependencies": {
+
+    "@adiwajshing/baileys": "^3.4.1"
+
+  }
+
+}
